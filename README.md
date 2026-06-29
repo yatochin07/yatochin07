@@ -1,14 +1,15 @@
 <div align="center">
-  <h1>Hi there, I'm Ega! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+  <h1>Hi there, I'm Ega! 👋</h1>
+  <p>Aspirin</p>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Informatics+Student+%40+Amikom;Full-Stack+Web+Developer;Android+Mobile+Developer;Aspiring+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Dev;Android+Mobile+Dev;Game+Dev+Enthusiast;Python+%7C+Go+%7C+Kotlin" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-    I'm an undergraduate <b>Informatics student at Universitas Amikom Yogyakarta</b> with a strong dedication to software engineering. My primary focus is building scalable, modern web applications (Full-Stack) and native mobile ecosystems (Android). 
+    I'm a dedicated undergraduate Informatics student at **Universitas Amikom Yogyakarta** with a strong focus on building scalable, modern web applications (Full-Stack) and native mobile ecosystems (Android). 
   </p>
   <p>
     Beyond web and mobile, I have a deep passion for <i>Game Development</i>, and I'm currently channeling that creativity into building my own independent games. 🚀
@@ -17,7 +18,7 @@
 
 <hr>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> About Me
+### 👨‍💻 About Me
 - 🎓 **Education:** Pursuing a Bachelor's degree (S1) in Informatics at Universitas Amikom Yogyakarta.
 - 🎯 **Career Goal:** Fully dedicated to becoming a highly skilled *Full-Stack Web Developer* and *Mobile Developer* (Android Specialist).
 - 🎮 **Side Quests:** Currently developing an independent **Visual Novel (VN)** game using the **Ren'Py** engine (Python). 
@@ -25,10 +26,10 @@
 
 <hr>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Tech Stack & Tools (Click to expand! 👇)
+### 🛠️ Tech Stack & Tools (Click to expand! 👇)
 
 <details>
-  <summary><b>🚀 Core Languages (Current Focus)</b></summary>
+  <summary><b>🚀 Core Languages (Focus)</b></summary>
   <br/>
   <p>Languages I actively use for building application logic, servers, and mobile systems:</p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
@@ -74,7 +75,7 @@
 
 <hr>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Current Projects
+### 🕹️ Current Projects
 
 <table>
   <tr>
@@ -96,16 +97,16 @@
 <br/>
 
 ```python
-# Vespera: Between is currently brewing...
-class VesperaBetween:
+# Vespera: Between game dev
+class VesperaBetween():
     def __init__(self):
         self.title = "Vespera: Between"
-        self.engine = "Ren'Py"
+        self.status = "In Development"
+        self.genre = "Visual Novel (Ren'Py)"
         self.language = "Python"
-        self.status = "In Active Development"
-
-    def launch(self):
-        return "Coming soon to your screens! 🚀"
+        
+    def check_progress(self):
+        return "Coding and writing... 🚀"
 
 game = VesperaBetween()
-print(f"Brewing {game.title} using {game.engine}...")
+print(f"Status: {game.title} is {game.status}")
