@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Ega! 👋</h1>
-  <p>Aspirin</p>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Dev;Android+Mobile+Dev;Game+Dev+Enthusiast;Python+%7C+Go+%7C+Kotlin" alt="Typing SVG" />
 </div>
@@ -9,7 +8,7 @@
 
 <div align="center">
   <p>
-    I'm a dedicated undergraduate Informatics student at **Universitas Amikom Yogyakarta** with a strong focus on building scalable, modern web applications (Full-Stack) and native mobile ecosystems (Android). 
+    I'm a dedicated undergraduate Informatics student at <b>Universitas Amikom Yogyakarta</b> with a strong focus on building scalable, modern web applications (Full-Stack) and native mobile ecosystems (Android). 
   </p>
   <p>
     Beyond web and mobile, I have a deep passion for <i>Game Development</i>, and I'm currently channeling that creativity into building my own independent games. 🚀
