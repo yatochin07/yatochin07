@@ -1,111 +1,102 @@
 <div align="center">
-  <h1>Hi there, I'm Ega! 👋</h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Dev;Android+Mobile+Dev;Game+Dev+Enthusiast;Python+%7C+Go+%7C+Kotlin" alt="Typing SVG" />
+
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=160&section=header&text=Hey%2C%20I'm%20Fariz%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Android%20Dev%20%7C%20Game%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<!-- Animated typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+AMIKOM+Yogyakarta;Building+Web+%26+Android+Apps;Exploring+the+World+of+Game+Development;Currently+crafting+Vespera%3A+Between+%F0%9F%8E%AE" alt="Typing SVG" />
+</a>
+
 </div>
 
-<br/>
+---
+
+### 🧑‍💻 About Me
+
+I'm an Informatics undergraduate at **Universitas Amikom Yogyakarta**, dedicated to becoming a skilled **Full Stack Web & Android Developer** — with a long-term vision of stepping into game development.
+
+I enjoy building things that are clean, functional, and meaningful. Right now, I'm sharpening my skills across the full stack while simultaneously working on my first visual novel game.
+
+- 🎓 &nbsp; S1 Informatics · Universitas Amikom Yogyakarta
+- 🌐 &nbsp; Focused on **Web** and **Android** development
+- 🎮 &nbsp; Currently developing **Vespera: Between** — a visual novel built with Ren'Py
+- 🚀 &nbsp; Always learning, always shipping
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages I work with:**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+**Frontend & UI:**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend & Runtime:**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+**Cloud & BaaS:**
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+### 🚧 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| 🌱 **EduVesting** | An educational platform for investment literacy | ✅ Live |
+| 🎮 **Vespera: Between** | A narrative-driven visual novel built with Ren'Py | 🔧 In Progress |
+
+---
+
+### 📬 Let's Connect
+
+<p>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <p>
-    I'm a dedicated undergraduate Informatics student at <b>Universitas Amikom Yogyakarta</b> with a strong focus on building scalable, modern web applications (Full-Stack) and native mobile ecosystems (Android). 
-  </p>
-  <p>
-    Beyond web and mobile, I have a deep passion for <i>Game Development</i>, and I'm currently channeling that creativity into building my own independent games. 🚀
-  </p>
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%"/>
+
 </div>
-
-<hr>
-
-### 👨‍💻 About Me
-- 🎓 **Education:** Pursuing a Bachelor's degree (S1) in Informatics at Universitas Amikom Yogyakarta.
-- 🎯 **Career Goal:** Fully dedicated to becoming a highly skilled *Full-Stack Web Developer* and *Mobile Developer* (Android Specialist).
-- 🎮 **Side Quests:** Currently developing an independent **Visual Novel (VN)** game using the **Ren'Py** engine (Python). 
-- 🛠️ **Flexibility:** Quick to adapt, from designing backend architecture to optimizing user interface performance.
-
-<hr>
-
-### 🛠️ Tech Stack & Tools (Click to expand! 👇)
-
-<details>
-  <summary><b>🚀 Core Languages (Focus)</b></summary>
-  <br/>
-  <p>Languages I actively use for building application logic, servers, and mobile systems:</p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</details>
-
-<br/>
-
-<details>
-  <summary><b>🌐 Web Development (Frontend & Backend)</b></summary>
-  <br/>
-  <p>My go-to technologies for crafting interactive and responsive web applications:</p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-</details>
-
-<br/>
-
-<details>
-  <summary><b>☁️ Cloud, BaaS & Tooling</b></summary>
-  <br/>
-  <p>Infrastructure and tools for data management and seamless deployment:</p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</details>
-
-<br/>
-
-<details>
-  <summary><b>📚 Foundational Languages</b></summary>
-  <br/>
-  <p>Languages that gave me a solid understanding of OOP concepts and system memory:</p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</details>
-
-<hr>
-
-### 🕹️ Current Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Eduvesting</h3>
-      <p>A modern web application project I am currently building.</p>
-      <a href="https://eduvesting.vercel.app">
-        <img src="https://img.shields.io/badge/Visit_Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Eduvesting Link"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 Vespera: Between</h3>
-      <p>An upcoming independent Visual Novel game built with Python and Ren'Py.</p>
-      <img src="https://img.shields.io/badge/Status-Coming_Soon-7F52FF?style=for-the-badge" alt="Coming Soon"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-```python
-# Vespera: Between game dev
-class VesperaBetween():
-    def __init__(self):
-        self.title = "Vespera: Between"
-        self.status = "In Development"
-        self.genre = "Visual Novel (Ren'Py)"
-        self.language = "Python"
-        
-    def check_progress(self):
-        return "Coding and writing... 🚀"
-
-game = VesperaBetween()
-print(f"Status: {game.title} is {game.status}")
