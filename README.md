@@ -5,11 +5,11 @@
 
 <!-- Greeting -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ega+%F0%9F%91%8B;Full+Stack+%26+Mobile+Dev+in+Progress;Building+the+web%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ega+%F0%9F%91%8B;Full+Stack+%26+Mobile+Dev+in+Progress;Building+the+web%2C+one+commit+at+a+time." alt="Typing SVG" style="max-width:100%;width:800px;" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Informatics+%40+Universitas+Amikom+Yogyakarta;Focused+on+Web+%26+Android+Development;Also+crafting+a+Visual+Novel+%E2%80%94+Vespera%3A+Between" alt="Subtitle Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Informatics+%40+Universitas+Amikom+Yogyakarta;Focused+on+Web+%26+Android+Development;Also+crafting+a+Visual+Novel+%E2%80%94+Vespera%3A+Between" alt="Subtitle Typing" style="max-width:100%;width:700px;" />
 </p>
 
 <br/>
@@ -62,12 +62,14 @@ const ega = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Backend & Runtime**
 
@@ -105,7 +107,7 @@ const ega = {
         &nbsp;
         <img src="https://img.shields.io/badge/Engine-Ren'Py-ff6b6b?style=flat-square"/>
       </p>
-      <img src="https://img.shields.io/badge/Stay_Tuned_%F0%9F%8C�-0d1117?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Stay_Tuned_%F0%9F%8C%9F-0d1117?style=for-the-badge"/>
     </td>
   </tr>
 </table>
@@ -117,6 +119,7 @@ const ega = {
 ```
 ▸ Deepening full stack skills with Next.js & Express.js
 ▸ Exploring Android development with Kotlin
+▸ Exploring cross-platform development with Dart & Flutter
 ▸ Developing Vespera: Between — a visual novel built with Ren'Py
 ▸ Learning system design & clean architecture fundamentals
 ```
