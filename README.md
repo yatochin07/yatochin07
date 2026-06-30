@@ -41,7 +41,7 @@ const ega = {
   education: "S1 Informatics · Universitas Amikom Yogyakarta",
   focus    : ["Web Development", "Mobile (Android)", "Game Dev — someday 🎮"],
   currently: "Building EduVesting & Vespera: Between VN",
-  status   : "Open to collaborations & learning opportunities",
+  status   : "Open to collaborations, learning opportunities, Unemployed",
 };
 ```
 
